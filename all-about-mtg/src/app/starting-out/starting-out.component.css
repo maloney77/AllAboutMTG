@@ -1,0 +1,39 @@
+.starting-out_title {
+  text-align:center;
+  font-size: 75px;
+}
+
+.starting-out_text-section {
+  background-color: white;
+  margin: 120px 50px 50px 50px;
+  height: 100vh;
+}
+
+.starting-out_what-is-magic-title {
+  text-align: center;
+  font-size: 25px;
+}
+
+.starting-out_information-section {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.starting-out_intro {
+  padding-top: 10px;
+  text-align: center;
+  width: 700px;
+}
+
+.starting-out_spells {
+  padding-top: 10px;
+  text-align: center;
+  width: 700px;
+}
+
+.starting-out_mana {
+  padding-top: 10px;
+  text-align: center;
+  width: 700px;
+}
